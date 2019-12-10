@@ -5,7 +5,3 @@ it('should pass', function () {
 it('should pass too', function () {
   expect(true).to.be.true
 })
-
-it('should pass too', function () {
-  expect(true).to.be.true
-})
